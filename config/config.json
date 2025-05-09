@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "db_absensi",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "neondb_owner",
+    "password": "npg_G7BT0SFhQcyC",
+    "database": "neondb",
+    "host": "ep-crimson-base-a1b8ygis.ap-southeast-1.aws.neon.tech",
+    "dialect": "postgres"
+  }
+}
